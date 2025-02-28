@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>Homeage</h1>
         <p className={styles.text}>Somethings in here </p>
         <p className={styles.text}>Somethings in here </p>
-        <p className={styles.text}>Somethings in here </p>
+        <p className={styles.text}>Desmond is a geek  </p>
         <Link href="/ninja" legacyBehavior>
           <a className={styles.btn}>See Ninja Listing</a>
         </Link>
